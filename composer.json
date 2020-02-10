@@ -1,5 +1,5 @@
 {
-    "name": "bueroparallel/bp-pagetree",
+    "name": "utrotzek/bp-pagetree-fork",
     "type": "typo3-cms-extension",
     "description": "Performance-optimized backend page tree for large TYPO3 v9 installations (> 10k pages)",
     "keywords": [
